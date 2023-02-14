@@ -195,7 +195,6 @@ body {
   transition-property: color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  
 }
 .site-nav .link:hover, 
 .site-nav .link:focus {
@@ -334,7 +333,6 @@ body {
   display: flex;
   align-items: center;
   background-color: var(--primery-background-color);
- 
 }
 
 .samples-list {
@@ -455,7 +453,6 @@ body {
   justify-content: center;
   align-items: center;
   gap: 24px;
-
 }
 
 .customers-item {
@@ -572,14 +569,11 @@ body {
   align-items: center;
   margin-top: 16px;
   gap: 16px;
-  
 }
 
 .footer-social-item {
   width: 40px;
-  height: 40px;
-  
-  
+  height: 40px; 
 }
 
 .footer-link-icon {
